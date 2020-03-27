@@ -6,12 +6,12 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/assets/AssetManifest.json": "4d1a55fe7a9f9e733f95b0eb7dbf8a13",
-"/assets/LICENSE": "964211db6a8b173b1744e68da77ce459",
+"/assets/LICENSE": "ba1bef3a74af9d760215002d072d61be",
 "/assets/assets/fonts/Tomorrow-Regular.ttf": "a03efb768048e9f34bf971cc4fd0856a",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets/FontManifest.json": "a14e2f7d5e61f14f50a2521c8e6d68a7",
-"/main.dart.js": "23976e72ffda883ce76f261c39196324",
+"/main.dart.js": "bbf4887c161fc4ebc9f2e6ba692c785b",
 "/index.html": "5cc0b60954eaf9f29c93ad48dea9238f"
 };
 
